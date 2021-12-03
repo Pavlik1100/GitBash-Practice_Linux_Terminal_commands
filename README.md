@@ -1,1 +1,1 @@
-# My_theory_and_practis
+# theory_and_practice_on_the_course
