@@ -33,12 +33,19 @@ curl "http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000"
 запуск файла "script" со скриптом командой /.script 
 
 #!/bin/bash
+
 cd new_folder
+
 mkdir {00..02}
+
 cd 00
+
 touch 01.txt 02.txt 03.txt 04.json 05.json
+
 mkdir fold1 fold2 fold3
+
 ls -la
+
 mv -v 04.json 05.json fold3
 
 
