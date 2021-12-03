@@ -1,1 +1,1 @@
-# theory_and_practice_on_the_course
+Задание и решение в файле Linux_terminal_(GitBash)_commands
