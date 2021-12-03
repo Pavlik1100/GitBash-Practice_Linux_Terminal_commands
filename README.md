@@ -21,7 +21,7 @@ Linux terminal (GitBash) commands
 17) вывести несколько первых строк из текстового файла ----- head -n2 1.txt
 18) вывести несколько последних строк из текстового файла ----- tail -n3 1.txt
 19) просмотреть содержимое длинного файла (команда less) изучите как она работает. ----- less -s 1.txt 
-20) вывести дату и время ----- date
+20) вывести дату и время ----- date  
 =========
 
 Задание *
@@ -33,7 +33,7 @@ curl "http://162.55.220.72:5005/object_info_3?name=Vadim&age=32&salary=1000"
 запуск файла "script" со скриптом командой /.script 
 
 #!/bin/bash  
-cd new_folder  
+cd "Linux_terminal_(GitBash)_commands"   
 mkdir {00..02}  
 cd 00  
 touch 01.txt 02.txt 03.txt 04.json 05.json  
