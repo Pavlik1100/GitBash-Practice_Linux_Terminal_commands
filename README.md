@@ -40,4 +40,4 @@ mkdir fold1 fold2 fold3
 ls -la  
 mv -v 04.json 05.json fold3  
 ```
-[ссылка](https://github.com/Pavlik1100/theory_and_practice_on_the_course/tree/main/script)
+[Директория со скриптом](https://github.com/Pavlik1100/theory_and_practice_on_the_course/tree/main/script)
