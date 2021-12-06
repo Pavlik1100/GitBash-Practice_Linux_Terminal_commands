@@ -1,5 +1,6 @@
 #!/bin/bash
-cd "Linux_terminal_(GitBash)"
+mkdir fold
+cd "fold"
 mkdir {00..02}
 cd 00
 touch 01.txt 02.txt 03.txt 04.json 05.json
