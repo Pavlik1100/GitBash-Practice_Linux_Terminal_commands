@@ -1,6 +1,6 @@
 # Linux Terminal/GitBash commands:
 
-1) Посмотреть где я   'pwd'
+1) Посмотреть где я   `pwd`
 2) Создать папку ----- mkdir new_folder
 3) Зайти в папку ----- cd new_folder
 4) Создать 3 папки ----- mkdir folder_1 folder_2 folder_3 -//- mkdir {0..2}
