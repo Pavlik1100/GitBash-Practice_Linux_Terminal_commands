@@ -1,6 +1,6 @@
 # Linux Terminal/GitBash commands [Составные команды Git и запись логов](https://github.com/Pavlik1100/GitBash-Practice_Linux_Terminal_commands/tree/main/added_new_skill)
 
-1) Посмотреть где я `pwd`
+1) Посмотреть где я `pwd`  
 2) Создать папку `mkdir new_folder`
 3) Зайти в папку `cd new_folder`
 4) Создать 3 папки `mkdir folder_1 folder_2 folder_3` или `mkdir {0..2}`
